@@ -111,6 +111,7 @@ namespace Beat
 
     [RequireComponent(typeof(AudioSource))]
     public class Clock : MonoBehaviour {
+        public pxFemme xxx;
 
         public static Clock Instance;
         
